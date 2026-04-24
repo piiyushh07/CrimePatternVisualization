@@ -34,7 +34,7 @@ src/
 ---
 
 ## 📸 Output
-*(Add your project screenshot here)*
+C:\Users\rd403\Pictures\Screenshots
 
 ---
 
