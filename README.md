@@ -34,7 +34,8 @@ src/
 ---
 
 ## 📸 Output
-C:\Users\rd403\Pictures\Screenshots
+<img width="1920" height="1080" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/819099e5-9574-451a-92cb-f83493b79a13" />
+
 
 ---
 
